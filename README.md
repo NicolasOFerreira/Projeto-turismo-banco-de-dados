@@ -5,10 +5,6 @@ Repositório dedicado ao projeto bimestral da matéria laboratório de banco de 
 
 Projeto de modelagem e implementação de um banco de dados relacional para gerenciar uma rede de turismo, contemplando usuários, guias, pontos turísticos, hospedagens e reservas.
 
-## Tecnologias
-* MySQL Server 8.0
-* Visual Studio Code (extensão Database Client)
-* SQL (DDL e DML)
 
 ## Estrutura do Banco (db_turismo)
 
